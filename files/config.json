@@ -34,7 +34,7 @@
                     },
                     {
                         "path":"/shadowsocks",
-                        "dest":3005
+                        "dest":5005
                     }
                 ]
             },
